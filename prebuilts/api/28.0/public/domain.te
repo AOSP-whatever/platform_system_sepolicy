@@ -1424,4 +1424,5 @@ neverallow {
   coredomain
   -init
   -ueventd
+  -vold
 } mnt_vendor_file:dir *;
